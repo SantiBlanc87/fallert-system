@@ -1,8 +1,12 @@
 {
   "name": "fallert",
+<<<<<<< HEAD
   "integrations": {
     "cordova": {}
   },
+=======
+  "integrations": {},
+>>>>>>> 4877c1408a5a6ec83714b190c80f6f6cc601126f
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
