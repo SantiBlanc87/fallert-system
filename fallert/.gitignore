@@ -31,8 +31,4 @@ npm-debug.log*
 /resources/android
 /resources/ios
 /resources/windows
-<<<<<<< HEAD
 /www/lib
-=======
-/www
->>>>>>> 4877c1408a5a6ec83714b190c80f6f6cc601126f
